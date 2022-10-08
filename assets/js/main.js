@@ -177,7 +177,7 @@ function criaTarefa(valor){
 
 function criaBtnErase(li){
   const btn = document.createElement('button')
-  btn.innerHTML = 'Apagar'
+  btn.innerHTML = ''
   li.appendChild(btn);
   btn.setAttribute('class','btnApagar')
 }
