@@ -110,7 +110,7 @@ ul{
   border: 2px solid #ffffff;
 }
 
-input:focus{
+input:focus, input{
   color: white;
   font-size: 1.6rem;
 }
